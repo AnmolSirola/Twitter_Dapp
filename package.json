@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@web3uikit/core": "^0.1.10",
+    "@web3uikit/icons": "^0.1.5",
+    "cartoon-avatar": "^1.0.2",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.1",
+    "react-router-dom": "^6.4.1",
+    "web3.storage": "^4.4.0",
+    "web3modal": "^1.9.9"
+  }
+}
